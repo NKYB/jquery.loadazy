@@ -1,4 +1,4 @@
-#LoadLazy v1.0.0
+#Loadazy v1.0.0
 jQuery plugin to add a loading image and have it swap/fire event when the real image is loaded
 http://applycontext.com
 
